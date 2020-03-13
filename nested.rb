@@ -58,6 +58,7 @@ def dennis_ritchies_language
       }
     }
 ritchie_hash = programmer_hash[:dennis_ritchie][:languages]
+ritchie_hash.join
 
 end
 
